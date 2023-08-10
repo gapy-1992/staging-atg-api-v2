@@ -1,0 +1,32 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro
+step 3: Add visual checkpoint at Page_docs_intro",High
+3,"step 1: Navigate to Page_docs_squads_managing-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_managing-your-squad",Low
+2,"step 1: Navigate to Page_docs_getting-started_browser-extension-installation
+step 2: Add visual checkpoint at Page_docs_getting-started_browser-extension-installation",Low
+5,"step 1: Navigate to Page_docs_your-profile_devcard
+step 2: Add visual checkpoint at Page_docs_your-profile_devcard",Trivial
+11,"step 1: Navigate to Page_docs_your-profile_deleting-your-profile
+step 2: Add visual checkpoint at Page_docs_your-profile_deleting-your-profile",Trivial
+7,"step 1: Navigate to Page_docs_how-does-daily-dev-work_how-to-get-featured
+step 2: Add visual checkpoint at Page_docs_how-does-daily-dev-work_how-to-get-featured",Trivial
+4,"step 1: Navigate to Page_docs_setting-up-your-feed_filtering-content-feed
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_filtering-content-feed",Trivial
+10,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Trivial
+6,"step 1: Navigate to Page_docs_getting-started_pwa
+step 2: Add visual checkpoint at Page_docs_getting-started_pwa",Trivial
+9,"step 1: Navigate to Page_docs_squads_creating-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_creating-your-squad",Trivial
+8,"step 1: Navigate to Page_docs_your-profile_account-details
+step 2: Add visual checkpoint at Page_docs_your-profile_account-details",Trivial
+13,"step 1: Navigate to Page_docs_how-does-daily-dev-work_dailydev-101
+step 2: Add visual checkpoint at Page_docs_how-does-daily-dev-work_dailydev-101",Trivial
+15,"step 1: Navigate to Page_docs_key-features_feeds
+step 2: Add visual checkpoint at Page_docs_key-features_feeds",Trivial
+12,"step 1: Navigate to Page_docs_your-profile_reading-history
+step 2: Add visual checkpoint at Page_docs_your-profile_reading-history",Trivial
+14,"step 1: Navigate to Page_docs_for-content-creators_content-guidelines
+step 2: Add visual checkpoint at Page_docs_for-content-creators_content-guidelines",Trivial
